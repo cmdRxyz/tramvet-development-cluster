@@ -3,6 +3,7 @@
 -  Oscar Gael Mayen Tello
 -  Sergio Rangel Vargas
 -  Juan Manuel López González
+-  Apolo Reynoso Ruiz
 
 # Development Guide
 Discord oficial de la comunidad de cluster [Discord](https://discord.com/invite/p3QVat6cD4).
